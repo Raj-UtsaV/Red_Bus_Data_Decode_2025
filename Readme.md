@@ -31,9 +31,7 @@ The dataset includes (or may include) the following:
 - Historical booking data (dates, journey details, number of bookings)  
 - Journey metadata (source, destination, route)  
 - Temporal features (day of week, holidays, etc.)  
-- Target: number of travellers/bookings for a journey date (15 days ahead)
-
-> Note: Data (if present) is placed in `Data.zip` in this repository. Update this section if you use different filenames.
+- Target: number of travellers/bookings for a journey date (15 days ahead
 
 ---
 
